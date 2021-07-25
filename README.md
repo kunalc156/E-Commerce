@@ -19,10 +19,13 @@ THEN I am able to successfully create, update, and delete data in my database
 # Video Links
 
  ## Api Calls to different routes
- https://drive.google.com/file/d/1BTLhCcYK-TF7BDGZo4IgH83XIsBmcwhl/view
+ [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://drive.google.com/file/d/1BTLhCcYK-TF7BDGZo4IgH83XIsBmcwhl/view)
+
  
  ## Initial project setup
- https://drive.google.com/file/d/1K_sWwVwBXmVaP-NcKmT34d6U4igrcZn6/view
+  [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://drive.google.com/file/d/1K_sWwVwBXmVaP-NcKmT34d6U4igrcZn6/view)
+
+ 
  
 
 # Author
